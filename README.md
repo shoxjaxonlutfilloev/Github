@@ -1,2 +1,1 @@
-# Github
-Github va git
+# Github va git orqali ishlash
